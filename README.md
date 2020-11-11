@@ -81,4 +81,6 @@ Example links:
 [case-insensitive-reference-tag]: https://carpentries.org/ 
 
 
+## How to add a landing page
 
+So far the website will be showing the readme.md. To do that we need to add an index.md with the add file. Going there now
