@@ -74,5 +74,11 @@ It is possible to create a tag for subsequent use in the document
 
 So I would like you to visit [this link][carpentries-tag]
 
- 
+Example links:
+1. [The Carpentries](https://carpentries.org/)
+
+
+[case-insensitive-reference-tag]: https://carpentries.org/ 
+
+Follow [this link now][case-insentive-reference-tag]
 
