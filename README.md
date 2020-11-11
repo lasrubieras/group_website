@@ -76,9 +76,9 @@ So I would like you to visit [this link][carpentries-tag]
 
 Example links:
 1. [The Carpentries](https://carpentries.org/)
-
+2.Follow [this link now][case-insentive-reference-tag]
 
 [case-insensitive-reference-tag]: https://carpentries.org/ 
 
-Follow [this link now][case-insentive-reference-tag]
+
 
