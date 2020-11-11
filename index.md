@@ -24,3 +24,5 @@ If you want to learn about me,
 # Contact us 
 
 Email: {{ site.email }}
+
+Follows on Twitter {{ site.twitter }}
