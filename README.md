@@ -75,8 +75,8 @@ It is possible to create a tag for subsequent use in the document
 So I would like you to visit [this link][carpentries-tag]
 
 Example links:
-1. [Inline link](https://carpentries.org/)  
-2.Follow [Reference link][case-insentive-reference-tag]
+1. [Inline link](https://carpentries.org/)
+2. Follow [Reference link][case-insentive-reference-tag]
 
 [case-insensitive-reference-tag]: https://carpentries.org/ 
 
