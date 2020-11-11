@@ -62,10 +62,17 @@ The code isn't specific to an language in particular, but it can be done by writ
      <a href=hhtps://carpentries.org/>This is a link</a>
    </body>
  </html>
+```
 
 ## How to do links in MD?
 
-[The Carpentries] (https://carpentries.org)
+[The Carpentries](https://carpentries.org)
 
+It is possible to create a tag for subsequent use in the document
 
+[carpentries-tag]: https://carpentries.org
+
+So I would like you to visit [this link][carpentries-tag]
+
+ 
 
