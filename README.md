@@ -34,7 +34,38 @@ Numbered lists start with a number. MD will figure out the sequencing. Any numbe
 
 Codes can be fenced offf by three backticks \`\`\`
 
-``` print("Hellow world")```
+``` print("Hello world")```
 
 It can be inserted inline embedding it within the text. Use single backticks for that.  
 Here we need to use a `print()` call. 
+
+The code isn't specific to an language in particular, but it can be done by writing the language right after the first set of backticks
+``` python
+  print("Hellow World!")
+```
+
+## More code snippets example
+
+``` python
+  s = "How are you?"
+  print(s)
+```
+
+``` R
+  print(paste("How", "are", "you?"), quote = FALSE)
+```
+
+``` html
+<!DOCTYPE html>
+ <html>
+   <body>
+     <a href=hhtps://carpentries.org/>This is a link</a>
+   </body>
+ </html>
+
+## How to do links in MD?
+
+[The Carpentries] (https://carpentries.org)
+
+
+
