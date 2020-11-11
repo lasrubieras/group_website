@@ -15,3 +15,26 @@ An extra pair of spaces after the end of the lines does does the trick tho.
 See? You can see the line break now. 
 
 A blank lines does insert a separator between paragraphs.
+
+List are make by starting a line with a dash 
+
+- item 1
+- item 2
+- item 3 
+- item n
+
+Numbered lists start with a number. MD will figure out the sequencing. Any number will do 
+
+1. item 1
+1. item 2
+1. item 3
+2. item 4
+25. item 5
+
+
+Codes can be fenced offf by three backticks \`\`\`
+
+``` print("Hellow world")```
+
+It can be inserted inline embedding it within the text. Use single backticks for that.  
+Here we need to use a `print()` call. 
