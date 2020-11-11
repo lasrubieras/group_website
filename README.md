@@ -76,7 +76,7 @@ So I would like you to visit [this link][carpentries-tag]
 
 Example links:
 1. [Inline link](https://carpentries.org/)
-2. Follow [Reference link][case-insentive-reference-tag]
+2. Follow [Reference link][case-insensitive-reference-tag]
 
 [case-insensitive-reference-tag]: https://carpentries.org/ 
 
