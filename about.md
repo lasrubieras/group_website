@@ -6,4 +6,4 @@ I like coffee and I like my dogs.
 
 ## Contact Us
 
-[Erwin Lares][mailto: lares@wisc.edu] 
+[Erwin Lares](mailto: lares@wisc.edu) 
